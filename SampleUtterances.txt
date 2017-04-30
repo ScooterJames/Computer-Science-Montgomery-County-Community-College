@@ -1,0 +1,17 @@
+JokeIntent tell me a joke about {Item}
+JokeIntent find me a joke about {Item}
+JokeIntent get me a joke about {Item}
+JokeIntent give me a joke about {Item}
+JokeIntent make me laugh about {Item}
+JokeIntent make a joke about {Item}
+JokeIntent tell me a joke
+JokeIntent find me a joke
+JokeIntent get me a joke
+JokeIntent give me a joke
+JokeIntent make me laugh
+JokeIntent make a joke
+JokeIntent what's going to make me laugh 
+JokeIntent i'd like a joke about {Item} 
+JokeIntent i would like a {Item} joke 
+JokeIntent i'd like an {Item} joke
+JokeIntent {Item}
