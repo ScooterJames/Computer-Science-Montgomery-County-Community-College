@@ -39,7 +39,7 @@ module.exports = {
 		"Well, when an Alexa, Siri, and Cortana love each other very much, you're bound to get an improper response. ",
 		"You are fined one credit for violation of the verbal moralities code.  Be well. ",
 		" I'm happy that you're happy but the place where you're supposed to have the toilet paper you've got this little shelf with 3 seashells on it.",
-		"I'm a scientist thats researching beastiality between humans and dogs. If you need more information... I'll be in my lab."
+		
 		
 	],
 	
