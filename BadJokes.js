@@ -15,6 +15,7 @@ module.exports = {
         "If a bird of the sea is a seagull, does that mean a bird of the bay is a bagel? ",
 		"What is blue and smells like red paint? ... Blue Paint. ",
         "What's red and invisible? ... No Tomatoes. ",
+		"What kind of eel hits your eye like a big pizza pie? Thats a morray."
 	],
 		
     "stupid":
