@@ -22,6 +22,7 @@ module.exports = {
         "Three computer science students walk into a bar. The fourth one ducked. ",
 		"What do you call a bear with no teeth? ... A gummy bear. ",
         "A horse walks into a bar. The bartender asks, Why the long face? ",
+	"Why did the programmer quit his job? Because he didn't get arrays.",
 	],
    
     "terrible":
