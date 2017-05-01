@@ -12,23 +12,24 @@
 module.exports = { 
     "bad":    /**-- Selection of generally bad jokes--*/
 	[
-        "If a bird of the sea is a seagull, does that mean a bird of the bay is a bagel? ",
+        	"If a bird of the sea is a seagull, does that mean a bird of the bay is a bagel? ",
 		"What is blue and smells like red paint? ... Blue Paint. ",
-        "What's red and invisible? ... No Tomatoes. ",
+        	"What's red and invisible? ... No Tomatoes. ",
+		"I saw an ad for a tv in a shop window, it said TV for five dollars volume stuck on full. I couldn't turn it down.",
 	],
 		
     "stupid":
 	[	/**--selection of exceptionally stupid jokes  --*/
-        "Three computer science students walk into a bar. The fourth one ducked. ",
+        	"Three computer science students walk into a bar. The fourth one ducked. ",
 		"What do you call a bear with no teeth? ... A gummy bear. ",
-        "A horse walks into a bar. The bartender asks, Why the long face? ",
-	"Why did the programmer quit his job? Because he didn't get arrays.",
+        	"A horse walks into a bar. The bartender asks, Why the long face? ",
+		"Why did the programmer quit his job? Because he didn't get arrays.",
 	],
    
     "terrible":
 	[	/**-- A gloriously curated list of fabulously terrible jokes --*/
-        "Two chemists are at a bar. One says I'd like some H 2 O. The other says I'd like some H 2 0 too. They have their drinks and the second man dies. ",
-        "What's brown and sticky? ... A stick. ",
+        	"Two chemists are at a bar. One says I'd like some H 2 O. The other says I'd like some H 2 0 too. They have their drinks and the second man dies. ",
+        	"What's brown and sticky? ... A stick. ",
 		"Did you hear about the two antennas that got married? ... The ceremony was lame, but the reception was amazing. ",
 		
 	],
@@ -55,9 +56,9 @@ module.exports = {
 	
 	"awful":
 	[	/**-- A selection of truly awful jokes or responses --*/
-        "Your face. ",
+        	"Your face. ",
 
-        "INSERT JOKE. "
+        	"INSERT JOKE. ",
 	]
 	
   
